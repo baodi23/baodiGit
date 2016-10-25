@@ -3,4 +3,4 @@ git is free software
 git has a mutable index called stage
 stupid boss
 creating a new branch is quick and simple
-add dev
+add a dev
